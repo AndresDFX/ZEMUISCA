@@ -8,6 +8,18 @@
 
 
     <Button
+        android:id="@+id/btn_iniciar"
+        android:layout_width="142dp"
+        android:layout_height="63dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginLeft="124dp"
+        android:layout_marginTop="20dp"
+        android:onClick="loginUsuario"
+        android:text="@string/btn_iniciar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_registrar" />
+
+    <Button
         android:id="@+id/btn_registrar"
         android:layout_width="141dp"
         android:layout_height="69dp"

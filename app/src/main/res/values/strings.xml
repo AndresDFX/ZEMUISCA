@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ZEMUISCA</string>
     <string name="btn_registrar">Registrar</string>
+    <string name="btn_iniciar">Iniciar sesion</string>
     <string name="lbl_email">Ingresa un email</string>
     <string name="lbl_contrasena">Ingrese una contraseña </string>
 </resources>
